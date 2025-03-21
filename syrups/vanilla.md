@@ -1,4 +1,4 @@
-# Simple Syrup
+# Simple Syrup Vainilla
 
 ## Description: Craft a cup full of vanilla flavor anytime with this delicious, café-inspired syrup recipe
 
